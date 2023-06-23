@@ -8,4 +8,4 @@ spec:
   interval: 5m0s
   ref:
     branch: main
-  url: https://github.com/qusp66/hbvu_attic_lab/kustomize/apps/hbvusu
+  url: https://github.com/qusp66/hbvu_attic_lab/tree/main/kustomize/apps/hbvusu
