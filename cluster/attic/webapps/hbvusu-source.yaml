@@ -5,7 +5,7 @@ metadata:
   name: hbvusu-webapp
   namespace: flux-system
 spec:
-  interval: 5m0s
+  interval: 30s
   ref:
     branch: main
   url: https://github.com/qusp66/hbvu_attic_lab/tree/main/kustomize/apps/hbvusu
