@@ -6,7 +6,7 @@ metadata:
   namespace: flux-system
 spec:
   interval: 5m0s
-  path: ./kustomize/components/webapps/hbvue
+  path: ./kustomize/apps/hbvue
   prune: true
   sourceRef:
     kind: GitRepository
